@@ -1,4 +1,4 @@
-package me.ajay.cryptocoin.presentation.coin_list.components
+package me.ajay.cryptocoin.presentation.coin_list
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
@@ -9,6 +9,7 @@ import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import me.ajay.cryptocoin.common.Resource
 import me.ajay.cryptocoin.domain.use_cases.get_coins.GetCoinsUseCase
+import me.ajay.cryptocoin.presentation.coin_list.CoinListState
 import javax.inject.Inject
 
 @HiltViewModel

@@ -1,4 +1,4 @@
-package me.ajay.cryptocoin.presentation.coin_details.components
+package me.ajay.cryptocoin.presentation.coin_details
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf

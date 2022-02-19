@@ -1,4 +1,4 @@
-package me.ajay.cryptocoin.presentation.coin_list.components
+package me.ajay.cryptocoin.presentation.coin_list
 
 import me.ajay.cryptocoin.domain.models.Coin
 
